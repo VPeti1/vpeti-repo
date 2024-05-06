@@ -30,3 +30,4 @@ rerepm 1-1
 speedometer 2.9-2
 visual-studio-code-bin 1.88.1-1
 yay-bin 12.3.5-1
+legendary
